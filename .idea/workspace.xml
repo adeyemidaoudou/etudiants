@@ -264,6 +264,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-com" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,12 +358,12 @@
       <option name="presentableId" value="Default" />
       <updated>1621448792158</updated>
       <workItem from="1621448793801" duration="29782000" />
-      <workItem from="1621488709076" duration="41000" />
+      <workItem from="1621488709076" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29823000" />
+    <option name="totallyTimeSpent" value="30105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -517,6 +518,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,6 +605,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6019">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
