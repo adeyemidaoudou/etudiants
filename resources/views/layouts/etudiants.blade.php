@@ -161,7 +161,7 @@
                 <ul class="list-unstyled navbar__list">
                     <li class="active has-sub">
                         <a class="js-arrow" href="#">
-                            <i class="fas fa-tachometer-alt"></i>Tableau de bord</a>
+                            <i class="fas fa-tachometer-alt"></i>Accueil</a>
                         <ul class="list-unstyled navbar__sub-list js-sub-list">
                             <li>
                                 <a href="{{url('/')}}">Accueil</a>
