@@ -161,17 +161,16 @@
                 <ul class="list-unstyled navbar__list">
                     <li class="active has-sub">
                         <a class="js-arrow" href="#">
-                            <i class="fas fa-tachometer-alt"></i>Dashboard</a>
+                            <i class="fas fa-tachometer-alt"></i>Tableau de bord</a>
                         <ul class="list-unstyled navbar__sub-list js-sub-list">
                             <li>
-                                <a href="{{route('etudiants.dashboard')}}">Dashboard</a>
+                                <a href="{{url('/')}}">Accueil</a>
                             </li>
-
                         </ul>
                     </li>
                     <li class="has-sub">
                         <a class="js-arrow" href="#">
-                            <i class="fas fa-copy"></i>Mes informations</a>
+                            <i class="fas fa-copy"></i>Enregistrement</a>
                         <ul class="list-unstyled navbar__sub-list js-sub-list">
                             <li>
                                 <a href="{{route('dossiers.index')}}">Voir mes infos</a>
@@ -180,22 +179,13 @@
                     </li>
                     <li class="has-sub">
                         <a class="js-arrow" href="#">
-                            <i class="fas fa-copy"></i>Mon statut</a>
+                            <i class="fas fa-copy"></i>Statut</a>
                         <ul class="list-unstyled navbar__sub-list js-sub-list">
                             <li>
                                 <a href="#">Voir mon statut</a>
                             </li>
                         </ul>
                     </li>
-
-
-
-
-                    {{-- <li>
-                         <a href="{{route('boutique.index')}}">
-                             <i class="far fa-check-square"></i>Boutique</a>
-                     </li>--}}
-
                     <li class="has-sub">
                         <a class="js-arrow" href="#">
                             <i class="fas fa-copy"></i>Compte</a>
